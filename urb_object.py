@@ -8,6 +8,7 @@ import matplotlib.pyplot as plt
 import rioxarray
 from PIL import Image
 
+
 possible_data_paths = [
     '../../../reversal_of_the_impact_chain/data/urbclim_for_dashboard/',
     # '/mnt/PROVIDE/urb_clim/'
